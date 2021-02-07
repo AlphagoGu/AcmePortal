@@ -1,0 +1,12 @@
+C:\Projects\AcmePortal\AcmePortal.Business\bin\Debug\netcoreapp2.1\AcmePortal.Business.deps.json
+C:\Projects\AcmePortal\AcmePortal.Business\bin\Debug\netcoreapp2.1\AcmePortal.Business.dll
+C:\Projects\AcmePortal\AcmePortal.Business\bin\Debug\netcoreapp2.1\AcmePortal.Business.pdb
+C:\Projects\AcmePortal\AcmePortal.Business\bin\Debug\netcoreapp2.1\AcmePortal.Repository.dll
+C:\Projects\AcmePortal\AcmePortal.Business\bin\Debug\netcoreapp2.1\AcmePortal.Repository.pdb
+C:\Projects\AcmePortal\AcmePortal.Business\obj\Debug\netcoreapp2.1\AcmePortal.Business.csprojAssemblyReference.cache
+C:\Projects\AcmePortal\AcmePortal.Business\obj\Debug\netcoreapp2.1\AcmePortal.Business.csproj.CoreCompileInputs.cache
+C:\Projects\AcmePortal\AcmePortal.Business\obj\Debug\netcoreapp2.1\AcmePortal.Business.AssemblyInfoInputs.cache
+C:\Projects\AcmePortal\AcmePortal.Business\obj\Debug\netcoreapp2.1\AcmePortal.Business.AssemblyInfo.cs
+C:\Projects\AcmePortal\AcmePortal.Business\obj\Debug\netcoreapp2.1\AcmePortal.Business.csproj.CopyComplete
+C:\Projects\AcmePortal\AcmePortal.Business\obj\Debug\netcoreapp2.1\AcmePortal.Business.dll
+C:\Projects\AcmePortal\AcmePortal.Business\obj\Debug\netcoreapp2.1\AcmePortal.Business.pdb

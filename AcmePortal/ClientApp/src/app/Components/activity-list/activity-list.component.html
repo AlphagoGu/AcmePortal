@@ -1,0 +1,28 @@
+<div class="container">
+  <div class="row">
+    <div class="col-md-9 col-md-offset-4">
+      <h2>All registered entries</h2>
+      <table class="table table-striped">
+        <thead>
+          <tr>
+            <th scope="col">First name</th>
+            <th scope="col">Last name</th>
+            <th scope="col">Email</th>
+            <th scope="col">Activity</th>
+            <th scope="col">Comments</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let u of userActivities">
+            <th>{{u.firstname}}</th>
+            <td>{{u.lastname}}</td>
+            <td>{{u.email}}</td>
+            <td>{{u.activity}}</td>
+            <td>{{u.comments}}</td>
+          </tr>
+        </tbody>
+      </table>
+      <input  class="btn btn-info" type="button" value="Go Back" onclick="history.back(-1)" />
+    </div>
+  </div>
+</div>

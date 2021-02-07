@@ -1,0 +1,9 @@
+C:\Projects\AcmePortal\AcmePortal.Repository\bin\Debug\netcoreapp2.1\AcmePortal.Repository.deps.json
+C:\Projects\AcmePortal\AcmePortal.Repository\bin\Debug\netcoreapp2.1\AcmePortal.Repository.dll
+C:\Projects\AcmePortal\AcmePortal.Repository\bin\Debug\netcoreapp2.1\AcmePortal.Repository.pdb
+C:\Projects\AcmePortal\AcmePortal.Repository\obj\Debug\netcoreapp2.1\AcmePortal.Repository.csprojAssemblyReference.cache
+C:\Projects\AcmePortal\AcmePortal.Repository\obj\Debug\netcoreapp2.1\AcmePortal.Repository.csproj.CoreCompileInputs.cache
+C:\Projects\AcmePortal\AcmePortal.Repository\obj\Debug\netcoreapp2.1\AcmePortal.Repository.AssemblyInfoInputs.cache
+C:\Projects\AcmePortal\AcmePortal.Repository\obj\Debug\netcoreapp2.1\AcmePortal.Repository.AssemblyInfo.cs
+C:\Projects\AcmePortal\AcmePortal.Repository\obj\Debug\netcoreapp2.1\AcmePortal.Repository.dll
+C:\Projects\AcmePortal\AcmePortal.Repository\obj\Debug\netcoreapp2.1\AcmePortal.Repository.pdb

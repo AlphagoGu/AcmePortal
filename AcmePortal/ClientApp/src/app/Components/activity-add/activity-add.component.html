@@ -1,0 +1,39 @@
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-9 col-md-offset-4">
+      <h2>Activity Sign Up Form</h2>
+      <form class="needs-validation" (ngSubmit)="signUpActivity()">
+        <div class="form-group">
+          <label for="firstnamefield">First Name</label>
+          <input type="text" class="form-control" id="firstnamefield" name="firstname" [(ngModel)]="model.Firstname" required maxlength="256">
+          <div class="invalid-feedback">first name is required</div>
+        </div>
+        <div class="form-group">
+          <label for="lastnamefield">Last Name</label>
+          <input type="text" class="form-control" id="lastnamefield" name="lastname" [(ngModel)]="model.Lastname" required maxlength="256">
+          <div class="invalid-feedback">last name is required</div>
+        </div>
+        <div class="form-group">
+          <label for="emailfield">Email</label>
+          <input type="email" class="form-control" id="emailfield" name="email" [(ngModel)]="model.Email" required maxlength="256">
+          <div class="invalid-feedback">a valid email address is required</div>
+        </div>
+        <div class="form-group">
+          <label for="inputState">Activity</label>
+          <select class="form-control" aria-describedby="activityHelp" name="activity" [(ngModel)]="model.Activity" required>
+            <option *ngFor="let act of activities" [value]="act">{{act}}</option>
+          </select>
+          <div class="invalid-feedback">please select an activity</div>
+          <small id="activityHelp" class="form-text text-muted">Please select the activity you want to sign up for</small>
+        </div>
+        <div class="form-group">
+          <label for="commentsfield">Comments</label>
+          <textarea class="form-control" id="commentsfield" rows="3" aria-describedby="commentsHelp" name="comments" [(ngModel)] ="model.Comments"></textarea>
+          <small id="commentsHelp" class="form-text text-muted">Additional comments you would like us to know</small>
+        </div>
+        <button type="button" (click)="validate()" class="btn btn-primary">Submit</button>
+      </form>
+    </div>
+  </div>
+</div>
